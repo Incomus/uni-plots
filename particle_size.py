@@ -5,7 +5,7 @@ import numpy as np
 from scipy.signal import find_peaks
 import scipy.stats as stats
 
-# takes data from obscure weird photo editing software (NOT FOR SCIENTFIC PURPOSES) from fucking 1995 
+# takes data from obscure weird photo editing software (NOT FOR SCIENTFIC PURPOSES) from something like fucking 1995 
 # that we had to use to "analyse" our microphotography images, it was a complete farce.
 # didn't even used that data in my presentation because it was so utterly bogus
 
